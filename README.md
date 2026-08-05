@@ -32,3 +32,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Purpose
 
 This project was started to document the findings from my running biomechanics investigation and make my findings easily accessible to others that may find the results helpful.
+
+## Current Status
+
+I am currently analyzing running videos using Tracker software to observe the effect of stride length on biomechanical loading factors
+
+## Planned Features
+
+The end product will consist of separate pages dedicated to detailing the methodology, results, and research as well as a home page to summarize findings.
