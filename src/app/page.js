@@ -5,28 +5,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-white">
 
-      {/* Navigation */}
-      <nav className="sticky top-0 z-50 flex justify-between items-center px-12 py-5 bg-white/90 backdrop-blur border-b border-gray-200">
-
-        <h2 className="text-2xl font-extrabold text-gray-900 tracking-tight">
-          Biomechanics Research
-        </h2>
-
-        <div className="flex gap-8 text-lg font-medium text-gray-800">
-          <a href="#" className="hover:text-blue-600 transition-colors">
-            Home
-          </a>
-
-          <a href="#" className="hover:text-blue-600 transition-colors">
-            Methods
-          </a>
-
-          <a href="#" className="hover:text-blue-600 transition-colors">
-            About
-          </a>
-        </div>
-
-      </nav>
+      
 
       {/* Hero */}
       <section className="max-w-6xl mx-auto px-8 py-20 text-center">
